@@ -3,7 +3,8 @@
 // mod slice_demo;
 // mod struct_demo;
 // mod calc_area;
-mod collection_demo;
+// mod collection_demo;
+mod hashmap_demo;
 fn main() {
     println!("Hello, world!");
     // guess_number::guess_number();
@@ -11,5 +12,6 @@ fn main() {
     // slice_demo::slice_demo();
     // struct_demo::struct_demo();
     // calc_area::main();
-    collection_demo::main();
+    // collection_demo::main();
+    hashmap_demo::main();
 }
